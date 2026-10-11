@@ -1,0 +1,16 @@
+# Ambientes virtuais
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+
+# Secrets e chaves de API
+.env
+.streamlit/secrets.toml
+
+# IDEs e SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,140 @@
+[
+  {
+    "categoria": "alimento",
+    "nome": "Banana Prata",
+    "porcao": "100g",
+    "calorias": 98,
+    "carboidratos_g": 26.0,
+    "proteinas_g": 1.3,
+    "gorduras_g": 0.1,
+    "fibras_g": 2.0,
+    "micronutrientes_destaque": ["Potássio", "Vitamina B6", "Vitamina C"],
+    "beneficios": "Auxilia na prevenção de cãibras, fornece energia rápida para treinos e melhora a saúde digestiva."
+  },
+  {
+    "categoria": "alimento",
+    "nome": "Peito de Frango Grelhado",
+    "porcao": "100g",
+    "calorias": 165,
+    "carboidratos_g": 0.0,
+    "proteinas_g": 31.0,
+    "gorduras_g": 3.6,
+    "fibras_g": 0.0,
+    "micronutrientes_destaque": ["Niacina (Vitamina B3)", "Fósforo", "Selênio"],
+    "beneficios": "Excelente fonte de proteína magra de alto valor biológico, ideal para hipertrofia muscular e saciedade."
+  },
+  {
+    "categoria": "alimento",
+    "nome": "Ovo Cozido Inteiro",
+    "porcao": "1 unidade média (50g)",
+    "calorias": 74,
+    "carboidratos_g": 0.6,
+    "proteinas_g": 6.3,
+    "gorduras_g": 5.0,
+    "fibras_g": 0.0,
+    "micronutrientes_destaque": ["Colina", "Vitamina B12", "Vitamina A", "Ferro"],
+    "beneficios": "Alimento completo com perfil balanceado de aminoácidos essenciais e colina importante para a saúde cerebral."
+  },
+  {
+    "categoria": "alimento",
+    "nome": "Aveia em Flocos",
+    "porcao": "30g (2 colheres de sopa)",
+    "calorias": 105,
+    "carboidratos_g": 17.0,
+    "proteinas_g": 4.3,
+    "gorduras_g": 2.2,
+    "fibras_g": 2.9,
+    "micronutrientes_destaque": ["Betaglucana (fibra solúvel)", "Magnésio", "Zinco"],
+    "beneficios": "Reduz a absorção de colesterol LDL, promove sensação de saciedade prolongada e regula o trânsito intestinal."
+  },
+  {
+    "categoria": "alimento",
+    "nome": "Salmão Grelhado",
+    "porcao": "100g",
+    "calorias": 206,
+    "carboidratos_g": 0.0,
+    "proteinas_g": 22.0,
+    "gorduras_g": 12.3,
+    "fibras_g": 0.0,
+    "micronutrientes_destaque": ["Ômega-3 (EPA e DHA)", "Vitamina D", "Vitamina B12"],
+    "beneficios": "Ação anti-inflamatória potente, suporte à saúde cardiovascular e melhora da função cognitiva."
+  },
+  {
+    "categoria": "alimento",
+    "nome": "Espinafre Cozido",
+    "porcao": "100g",
+    "calorias": 23,
+    "carboidratos_g": 3.8,
+    "proteinas_g": 3.0,
+    "gorduras_g": 0.3,
+    "fibras_g": 2.4,
+    "micronutrientes_destaque": ["Ferro não-heme", "Folato", "Vitamina K", "Luteína"],
+    "beneficios": "Baixíssimo teor calórico, rico em antioxidantes protetores da visão e suporte à coagulação sanguínea."
+  },
+  {
+    "categoria": "alimento",
+    "nome": "Castanha-do-Pará (Castanha-do-Brasil)",
+    "porcao": "1 unidade (5g)",
+    "calorias": 33,
+    "carboidratos_g": 0.6,
+    "proteinas_g": 0.7,
+    "gorduras_g": 3.3,
+    "fibras_g": 0.4,
+    "micronutrientes_destaque": ["Selênio", "Vitamina E", "Magnésio"],
+    "beneficios": "Apenas 1 unidade por dia supre as necessidades diárias de selênio, exercendo papel antioxidante e regulando a tireoide."
+  },
+  {
+    "categoria": "dica_nutricional",
+    "tema": "Hidratação Diária",
+    "recomendacao": "Consuma aproximadamente 35ml de água por quilo de peso corporal ao longo do dia.",
+    "detalhes": "A hidratação adequada melhora o metabolismo, auxilia na filtração renal e previne falsos sinais de fome causados por sede."
+  },
+  {
+    "categoria": "dica_nutricional",
+    "tema": "Montagem de Prato Saudável (Método do Prato)",
+    "recomendacao": "Divida o prato em: 50% vegetais/legumes (crus e cozidos), 25% proteínas (magras) e 25% carboidratos complexos ou grãos integrais.",
+    "detalhes": "Essa distribuição garante volume, densidade nutricional alta, controle glicêmico e saciedade duradoura."
+  },
+  {
+    "categoria": "dica_nutricional",
+    "tema": "Alimentação Pré e Pós-Treino",
+    "recomendacao": "Pré-treino (1 a 2 horas antes): carboidratos de fácil digestão (ex: banana com aveia). Pós-treino: combinação de proteínas com carboidratos para recuperação glicogênica e muscular.",
+    "detalhes": "Evite excesso de gorduras no pré-treino imediato para não retardar o esvaziamento gástrico."
+  },
+  {
+    "categoria": "mito_ou_verdade",
+    "afirmacao": "Comer carboidrato à noite engorda mais do que durante o dia.",
+    "veredito": "Mito",
+    "explicacao": "O ganho de peso decorre do superávit calórico total consumido ao longo do dia/semana, e não do horário isolado em que o nutriente é ingerido."
+  },
+  {
+    "categoria": "mito_ou_verdade",
+    "afirmacao": "Água morna com limão pela manhã queima gordura e emagrece.",
+    "veredito": "Mito",
+    "explicacao": "O limão fornece vitamina C e a água hidrata, mas não existe mecanismo termogênico significativo que promova queima direta de gordura."
+  },
+  {
+    "categoria": "mito_ou_verdade",
+    "afirmacao": "A gema do ovo faz mal ao coração devido ao colesterol.",
+    "veredito": "Mito",
+    "explicacao": "Para a grande maioria da população, o colesterol dietético tem impacto mínimo no colesterol sanguíneo; a gema concentra vitaminas lipossolúveis (A, D, E, K) e colina."
+  },
+  {
+    "categoria": "mito_ou_verdade",
+    "afirmacao": "Pular refeições deixa o metabolismo permanentemente lento.",
+    "veredito": "Mito",
+    "explicacao": "Breves períodos de jejum não desaceleram o metabolismo de maneira significativa. O fator crucial para a saúde metabólica é a qualidade dos alimentos consumidos nas janelas alimentares."
+  },
+  {
+    "categoria": "vitamina_e_mineral",
+    "nutriente": "Vitamina C (Ácido Ascórbico)",
+    "fontes_principais": ["Laranja", "Acerola", "Goiaba", "Kiwi", "Pimentão amarelo"],
+    "funcao_principal": "Potente antioxidante, melhora a absorção do ferro vegetal e participa na síntese de colágeno e imunidade."
+  },
+  {
+    "categoria": "vitamina_e_mineral",
+    "nutriente": "Ferro",
+    "fontes_principais": ["Carnes vermelhas", "Feijão", "Lentilha", "Espinafre"],
+    "funcao_principal": "Componente essencial da hemoglobina para transporte de oxigênio no sangue. Dica: consumir com fontes de vitamina C potencializa a absorção do ferro de fontes vegetais."
+  }
+]
